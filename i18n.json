@@ -3,6 +3,6 @@
 	"defaultLocale": "en",
 	"pages": {
 	  "*": ["common"],
-	  "/site/settings": ["siteSettingsTranslations"]
+	  "/site/settings": ["site", "settings", "siteSettingsTranslations"]
 	  	}
   }
