@@ -1,0 +1,8 @@
+{
+	"locales": ["en", "ca"],
+	"defaultLocale": "en",
+	"pages": {
+	  "*": ["common"],
+	  "/site/settings": ["sites/settings/siteSettingsTranslations"]
+	}
+  }
